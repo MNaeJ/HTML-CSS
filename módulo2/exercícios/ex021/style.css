@@ -1,0 +1,28 @@
+@charset "UTF-8"
+
+header {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+main {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+article {
+    background-color: lightgray;
+    padding: 5px;
+}
+article > aside{
+    background-color: rgb(165, 165, 165);
+}
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1px;
+    margin: 0;
+}
